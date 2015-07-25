@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectsViewInfo>
-	<DiagramOpenInfos activeDiagramId="cr7qeLKFYGi.iRGb">
-		<Info bounds="Re:0.0,0.0,1340.0,576.0" diagramId="cr7qeLKFYGi.iRGb" maximized="true" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,998.0,516.0" diagramId="NcmaeLKFYGi.iRKv" maximized="false" offsetX="469" offsetY="95"/>
-		<Info bounds="Re:0.0,0.0,998.0,576.0" diagramId="ru0UHLKFYGi.nYpX" maximized="false" offsetX="0" offsetY="60"/>
+	<DiagramOpenInfos activeDiagramId="O2lWNbKFYGi.faUR">
+		<Info bounds="Re:0.0,0.0,1340.0,576.0" diagramId="cr7qeLKFYGi.iRGb" maximized="false" offsetX="1040" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,998.0,516.0" diagramId="NcmaeLKFYGi.iRKv" maximized="false" offsetX="1860" offsetY="180"/>
+		<Info bounds="Re:0.0,0.0,998.0,576.0" diagramId="ru0UHLKFYGi.nYpX" maximized="false" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,1340.0,576.0" diagramId="HA5B2bKGAqACA3hE" maximized="false" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,1340.0,576.0" diagramId="O2lWNbKFYGi.faUR" maximized="true" offsetX="0" offsetY="0"/>
 	</DiagramOpenInfos>
 </ProjectsViewInfo>
